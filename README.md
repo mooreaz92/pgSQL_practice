@@ -19,8 +19,6 @@ This repo can be segmented into three parts:
     - `insta_queries.sql` - The queries used to create the database and tables, as well as populate the tables with data
 2. The Javascript files used to practice SQL schema and data migrations, which are:
     - The migration_folder - which contains the files used to practice writing SQL migrations in Javascript
-<br>
-</br>
 3. The Javascript files used to create the web server that interfaces with the Instagram clone database, which are:
     - The api folder - which contains the repos, routes, and test files for the database interface
     - The web_server folder - which contains the files used to create the web server that interfaces with the database
