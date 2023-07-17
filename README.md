@@ -15,18 +15,20 @@ The purpose of this repository is to have a working file of the exercises and le
 This repo can be segmented into three parts:
 
 1. The files related to the dummy Instagram database clone, which are:
-    a. `database_design.dbml` - The database design file for the database which can be recreated using [dbdiagram.io](https://dbdiagram.io/home)
-    b. `insta_queries.sql` - The queries used to create the database and tables, as well as populate the tables with data
-
+    - `database_design.dbml` - The database design file for the database which can be recreated using [dbdiagram.io](https://dbdiagram.io/home)
+    - `insta_queries.sql` - The queries used to create the database and tables, as well as populate the tables with data
+<br>
+</br>
 2. The Javascript files used to practice SQL schema and data migrations, which are:
-    a. The migration_folder - which contains the files used to practice writing SQL migrations in Javascript
-
+    - The migration_folder - which contains the files used to practice writing SQL migrations in Javascript
+<br>
+</br>
 3. The Javascript files used to create the web server that interfaces with the Instagram clone database, which are:
-    a. The api folder - which contains the repos, routes, and test files for the database interface
-    b. The web_server folder - which contains the files used to create the web server that interfaces with the database
+    - The api folder - which contains the repos, routes, and test files for the database interface
+    - The web_server folder - which contains the files used to create the web server that interfaces with the database
 
 ## Certificate of Completion
 
-<img src="images/course_certificate.jpg" alt="udemy" style="border-radius: 8px; width: 30%; object-fit: cover;">
-
-
+<div style="text-align: center;">
+    <img src="images/course_certificate.jpg" alt="udemy" style="border-radius: 8px; width: 50%; object-fit: cover;">
+</div>
