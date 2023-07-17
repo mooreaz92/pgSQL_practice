@@ -17,8 +17,6 @@ This repo can be segmented into three parts:
 1. The files related to the dummy Instagram database clone, which are:
     - `database_design.dbml` - The database design file for the database which can be recreated using [dbdiagram.io](https://dbdiagram.io/home)
     - `insta_queries.sql` - The queries used to create the database and tables, as well as populate the tables with data
-<br>
-</br>
 2. The Javascript files used to practice SQL schema and data migrations, which are:
     - The migration_folder - which contains the files used to practice writing SQL migrations in Javascript
 <br>
