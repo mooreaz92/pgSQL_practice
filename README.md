@@ -27,6 +27,6 @@ This repo can be segmented into three parts:
 
 ## Certificate of Completion
 
-<img src="images/course_certificate.png" alt="udemy" style="border-radius: 8px; width: 30%; object-fit: cover;">
+<img src="images/course_certificate.jpg" alt="udemy" style="border-radius: 8px; width: 30%; object-fit: cover;">
 
 
